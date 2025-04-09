@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bamo Inter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class>
+        <nav>
+            <ul>
+                <li>
+                    <a href="1913.html">1913</a>
+                </li>
+                <li>
+                    <a href="1909.html">1909</a>
+                </li>
+                <li>
+                    <a href="2006.html">2006</a>
+                </li>
+            </ul>
+        </nav>
+    
+        <header>
+            <div class="center">
+                <img src="./inter.png"
+            </div>
+            <h1>Sport Club Internacional</h1>
+            <h2>Campeão de Tudo</h2>
+        </header>
+    
+        <main> 
+            <section>
+                <h3>Octa é só um!</h3>
+                <p>
+                    Colorado Quebra a Seca em Grande Estilo: Inter Vence o Gre-Nal e Volta a Ser Campeão Gaúcho
+    
+    Porto Alegre, RS – Depois de anos de angústia e tentativas frustradas, o Sport Club Internacional voltou a erguer a taça do Campeonato Gaúcho, e não poderia ter sido de forma mais simbólica: vencendo um Gre-Nal decisivo e reafirmando sua grandeza no cenário estadual.
+    
+    A conquista marcou o fim de um jejum incômodo, que aumentava a pressão sobre o clube a cada temporada. Mas em 2025, com uma equipe determinada e uma torcida que nunca deixou de acreditar, o Inter deu a resposta em campo.
+    
+    Na grande final contra o Grêmio, o Colorado mostrou superioridade. No primeiro jogo, buscou o resultado com inteligência e equilíbrio. Na volta, no Beira-Rio lotado, o time jogou com o coração. Com gols decisivos e uma atuação segura, o Inter venceu o clássico e garantiu o título diante do maior rival — tornando o triunfo ainda mais marcante.
+    
+    Além de encerrar a seca, o Internacional reforçou sua história ao relembrar um feito exclusivo: ser o único clube octacampeão consecutivo do Gauchão, feito alcançado entre 1969 e 1976. Nenhum outro clube conseguiu igualar essa marca até hoje, o que reafirma a tradição e a hegemonia colorada no futebol gaúcho.
+    
+    Mais do que uma taça, essa vitória representou a retomada da confiança, o renascimento do orgulho colorado e a certeza de que o Inter está novamente no caminho das conquistas.    
+                </p>
+            </section>
+            <section>
+                <h3>gre-NAL!</h3>
+                <p>
+                    Gre-Nal: A Maior Rivalidade do Brasil e o Orgulho Colorado do Octa Gaúcho
+    
+    Porto Alegre, RS – Quando se fala em rivalidade no futebol brasileiro, poucas são tão intensas, apaixonadas e históricas quanto o Gre-Nal. Internacional e Grêmio se enfrentam há mais de um século em uma disputa que vai além das quatro linhas — é um duelo de identidades, culturas e orgulho.
+    
+    A rivalidade nasceu em 1909, ano da fundação do Internacional. Poucos meses depois, em 18 de julho daquele ano, aconteceu o primeiro Gre-Nal da história, com vitória gremista por 10 a 0. Mas longe de desanimar, o Inter respondeu com crescimento, inclusão e conquistas — e a partir dali, o clássico virou tradição, carregando emoções extremas a cada encontro.
+    
+    Enquanto o Grêmio era, à época, um clube de elites e restritivo, o Internacional se consolidava como o "Clube do Povo", aberto a todos, independente de origem ou classe social. Essa diferença de essência fortaleceu ainda mais a rivalidade, que se espalhou pelas ruas de Porto Alegre e virou símbolo da cultura gaúcha.
+    
+    Ao longo dos anos, Gre-Nais decidiram campeonatos, definiram carreiras e criaram lendas. E quando se fala em hegemonia estadual, o Internacional carrega com orgulho um feito único: entre 1969 e 1976, conquistou oito títulos estaduais consecutivos, tornando-se o único octacampeão da história do Gauchão. Nem o maior rival conseguiu igualar esse marco.
+    
+    Esse octa virou bandeira, virou canto nas arquibancadas e resposta certeira em qualquer provocação: "octa só o Inter tem".
+    
+    No Gre-Nal, não se joga apenas por vitória. Se joga por história. E o Internacional tem páginas que só ele escreveu — com suor, raça e conquistas que jamais serão esquecidas.
+                </p>
+            </section>
+            <section>
+                <h3>Maior do Sul!</h3>
+                <p>
+                    Quem Tem Mais Gre-Nais? E Quem Reina no Gauchão? A Disputa Que Move o Rio Grande do Sul
+    
+                    Porto Alegre, RS – O Gre-Nal é mais que um jogo: é um fenômeno cultural que atravessa gerações. Internacional e Grêmio protagonizam, desde 1909, a maior rivalidade do Brasil e uma das maiores do mundo. E entre tantas disputas históricas, duas perguntas sempre estão na boca dos torcedores: quem tem mais vitórias no clássico? E quem tem mais títulos do Gauchão?
+                    
+                    No quesito Gre-Nais, a disputa é acirrada. Ao longo de mais de 430 confrontos oficiais, o equilíbrio sempre foi uma marca do clássico. O Internacional lidera no número total de vitórias em clássicos Gre-Nal, somando partidas de estaduais, nacionais e até internacionais. O Grêmio chegou a empatar ou até ultrapassar em determinados períodos, mas a vantagem muda com o tempo, tornando o embate ainda mais eletrizante.
+                    
+                    Já no Campeonato Gaúcho, o domínio colorado é claro. O Internacional é o maior campeão da história do Gauchão, com 46 títulos conquistados, contra 42 do Grêmio. Entre essas conquistas. Cada final vencida, especialmente em cima do rival, é lembrada por décadas. É o campeonato onde o orgulho local se afirma e onde o Gre-Nal ganha contornos épicos.
+                    
+                    Portanto, se a pergunta é “quem tem mais?”, a resposta depende do recorte. Mas no coração do torcedor, o que vale mesmo é a paixão, a história e a certeza de que o próximo Gre-Nal sempre será o mais importante da história.
+                    <br>Retrospecto.
+                    <br>Jogos: 446
+                    <br>Vitórias do Grêmio: 141
+                    <br>Vitórias do Inter: 165
+                    <br>Empates: 140
+                    <br>Gols marcados pelo Grêmio: 557
+                    <br>Gols marcados pelo Inter: 608
+                </p>
+            </section>
+        </main>
+    
+        <footer>
+            <a href="https://www.internacional.com.br/" target="_blank" rel="noopener noreferrer">
+               <img src="./linkloja.png" 
+            </a>
+        </footer>
+    </div>
+    
+    
+</body>
+</html>
